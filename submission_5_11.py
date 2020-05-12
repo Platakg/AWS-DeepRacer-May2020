@@ -1,3 +1,8 @@
+## Trained with OG DeepRacer car using Shanghai Sudu Training Track
+## Top Evaluation on AWS Summit Raceway
+##	00:00:35.457	100%	Lap complete
+##	00:00:37.045	100%	Lap complete
+
 import math 
 
 def reward_function(params):
